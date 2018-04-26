@@ -75,3 +75,5 @@ $RECYCLE.BIN/
 hs_err_pid*
 
 *.iml
+doc
+META-INF
