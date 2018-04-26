@@ -63,7 +63,6 @@ $RECYCLE.BIN/
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
@@ -75,3 +74,5 @@ $RECYCLE.BIN/
 hs_err_pid*
 
 *.iml
+doc
+META-INF
